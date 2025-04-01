@@ -12,6 +12,7 @@
 function listaCompras() {
     this.productos = [];   
 }
+
 let listas = new listaCompras();
 listas.productos.push("manzanas")
 listas.productos.push("uva")
